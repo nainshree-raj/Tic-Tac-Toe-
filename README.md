@@ -1,2 +1,2 @@
 # Tic-Tac-Toe-
-html, css, js
+HTML, CSS, JS
